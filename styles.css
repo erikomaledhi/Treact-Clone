@@ -1773,7 +1773,7 @@ footer {
 }
 
 @media (max-width: 550px) {
-  
+
   /* HEADER */
 
   .header__description--form {
@@ -1814,6 +1814,7 @@ footer {
 
   .user__img--mask {
     height: 60px;
+    width: 60px;
   }
 
   .user__info {
